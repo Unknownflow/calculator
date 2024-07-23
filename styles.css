@@ -35,6 +35,14 @@ body {
 	border: 2px solid black;
 }
 
+.calculator-button:hover {
+	filter: brightness(85%);
+}
+
+.calculator-button:active {
+	filter: brightness(100%);
+}
+
 .wide {
 	width: 50%;
 }
